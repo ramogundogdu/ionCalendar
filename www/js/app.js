@@ -17,9 +17,3 @@ angular.module('starter', ['ionic','starter.controllers','starter.services','ngC
     }
   });
 })
-
-document.addEventListener("deviceready", function () {
-
-//embed Code here 
-
-});
